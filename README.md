@@ -1,13 +1,6 @@
-# Hi, I'm Yann 👋
-
-Technical support professional transitioning to cloud infrastructure and cybersecurity.
-
-Currently building hands-on experience through network labs (Cisco Packet Tracer) and web projects (Next.js/TypeScript).
-
-**Stack:** JavaScript • React • Node.js • Cisco IOS • Git
-
-**Certifications:** CompTIA A+ ✓ | CCNA (in progress) | AWS SAA & Security+ (next)
-
-**Contact:** [yanntroadec.com](https://yanntroadec.com) • [LinkedIn](https://www.linkedin.com/in/yann-troadec/)
-
-> "Systems, layer by layer"
+Hi, I'm Yann 👋
+IT Technician focused on networking.
+Building hands-on experience through documented network labs (Cisco Packet Tracer).
+Skills: Cisco IOS • TCP/IP • VLANs • Switching • Routing
+Certifications: CompTIA A+ ✓ | TOEIC 980/990
+Contact: yanntroadec.com • LinkedIn
